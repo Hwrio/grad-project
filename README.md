@@ -3,7 +3,7 @@
 
 ## Nội dung
 
-Đồ án tập trung nghiên cứu cách thức hoạt động của mã độc ransomware trên thiết bị IoT, cụ thể là Raspberry Pi. Báo cáo mô tả quá trình mã hóa dữ liệusau tấn công và đưa ra các khuyến nghị nhằm giảm thiểu rủi ro.
+Đồ án tập trung nghiên cứu cách thức hoạt động của mã độc ransomware trên thiết bị IoT, cụ thể là Raspberry Pi. Báo cáo mô tả cách xâm nhập và tấn công của ransomware và đưa ra các khuyến nghị nhằm giảm thiểu rủi ro.
 
 ## Tài liệu
 
