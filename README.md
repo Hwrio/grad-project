@@ -7,6 +7,6 @@
 
 ## Tài liệu
 
-Toàn bộ nội dung báo cáo đồ án tốt nghiệp.
+Toàn bộ nội dung báo cáo đồ án tốt nghiệp: B20DCAT117 - Doãn Hà Ly - Nghiên cứu tấn công ransomware vào thiết bị IoT - Báo cáo.pdf 
 
 > Repo này chỉ lưu trữ file báo cáo.
